@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Blake Moen</h1>
 <h3 align="center">A passionate programmer from North Dakota</h3>
 
-- 🔭 I’m currently working on **PollutionVue: USA Edition**
+- 🔭 I’m currently working on **A visual representation of pollution emissions from the United States, which I have called 'PollutionVue: USA Edition,' in hopes to provide valuable insights into the environmental impact of the country"**
 
 - 🌱 I’m currently learning **SQL, Google Data Analytics, and Seaborn**
 

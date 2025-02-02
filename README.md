@@ -1,15 +1,13 @@
 <h1 align="center">Hi 👋, I'm Blake Moen</h1>
-<h3 align="center">A passionate programmer from North Dakota</h3>
+<h3 align="center">A programmer North Dakota</h3>
 
 - 🔭 I’m currently working on **A visual representation of pollution emissions from the United States, which I have called 'PollutionVue: USA Edition,' in hopes to provide valuable insights into the environmental impact of the country"**
 
-- 🌱 I’m currently learning **SQL, Google Data Analytics, and Seaborn**
-
-- 💬 Ask me about **Python, Matplotlib**
+- 🌱 I’m currently learning **Linux and Operating Systems**
 
 - 📫 How to reach me **blakemoen3@gmail.com**
 
-- ⚡ Fun fact **I love to travel and adore animals.**
+- ⚡ Fun fact **I love to learn and embrace hard tasks.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
